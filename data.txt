@@ -1,3 +1,4 @@
-Start
-Ajouter ft 1
-Mettre à jourt ft 1
+Start : 
+Ajouter ft 1 
+Mettre à jour ft 1
+fix release
