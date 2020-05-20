@@ -1,6 +1,7 @@
 Start : 
-feature 1 
-bug: update ft 1 bug 1
+Feature 1 
+feature2
+update ft 1 bug 1
 fix release 
 Hot fix 1
 
