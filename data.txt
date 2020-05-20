@@ -1,5 +1,6 @@
 Start : 
-Ajouter ft 1 
-Mettre à jour ft 1
+Feature 1
+feature 2 
+update feature 1 bug 1
 fix release
 Hot fix 1
